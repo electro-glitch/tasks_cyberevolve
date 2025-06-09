@@ -1,0 +1,1 @@
+Creating a Postgre SQL database, integrating it with FastAPI, executing CRUD operations
